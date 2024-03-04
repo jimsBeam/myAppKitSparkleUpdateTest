@@ -3,12 +3,12 @@
     <channel>
         <title>MyAppKitSparkleTest</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Sat, 02 Mar 2024 14:18:19 -0700</pubDate>
-            <sparkle:version>1.0</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <title>1.1</title>
+            <pubDate>Sun, 03 Mar 2024 20:28:47 -0700</pubDate>
+            <sparkle:version>1.1</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jimsBeam/myAppKitSparkleUpdateTest/releases/download/prod/MyAppKitSparkle1.0.dmg" length="4754894" type="application/octet-stream" sparkle:edSignature="FQP+7WkI9aybjXzyUP9fEeMkhifqfP6hNxB8DA6Lmcq9ls1EfftKRSzDx3NlSQlQNyCd9wIHHVYgAKhLtbZnCw=="/>
+            <enclosure url="https://github.com/jimsBeam/myAppKitSparkleUpdateTest/releases/download/prod/MyAppKitSparkleTest1.1.dmg" length="4963517" type="application/octet-stream" sparkle:edSignature="FXICpsXPEd3zbCejc5N9F6NXcNKGsQvj2i7/Udt85VgF/AWrLc3l6svgLHg2FY3zF1bNoD/3kIQHyoAcwXqhCw=="/>
         </item>
     </channel>
 </rss>
